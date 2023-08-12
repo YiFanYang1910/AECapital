@@ -1,0 +1,7 @@
+C:\Users\ffls7\OneDrive\Desktop\AE Capital\AECapital\out\AECapital.exe
+C:\Users\ffls7\OneDrive\Desktop\AE Capital\AECapital\out\appsettings.Development.json
+C:\Users\ffls7\OneDrive\Desktop\AE Capital\AECapital\out\appsettings.json
+C:\Users\ffls7\OneDrive\Desktop\AE Capital\AECapital\out\AECapital.dll
+C:\Users\ffls7\OneDrive\Desktop\AE Capital\AECapital\out\AECapital.deps.json
+C:\Users\ffls7\OneDrive\Desktop\AE Capital\AECapital\out\AECapital.runtimeconfig.json
+C:\Users\ffls7\OneDrive\Desktop\AE Capital\AECapital\out\AECapital.pdb

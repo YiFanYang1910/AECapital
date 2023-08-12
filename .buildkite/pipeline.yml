@@ -1,0 +1,15 @@
+steps:
+  - wait
+  - block: ":stopwatch: Waiting to relerase to Dev environments"
+
+  - label: ":terraform: Deploy Bash script in Dev Envs"
+    agents:
+      queue: "Dev queue name"
+    command:
+      - ./script.sh
+    plugins:
+      - docker-login#v2.0.1:
+        server: can use for docker compose
+        username:
+        password-env:
+    allow_dependency_failure: true
